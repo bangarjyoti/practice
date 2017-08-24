@@ -1,1 +1,14 @@
-Second File
+Topics Covered
+IDE vs. WebDriver
+Selenium Setup
+Package
+Button
+CheckBox
+TextBox
+ListBox
+Text Area
+DropDown
+Option Button
+Table - Value read
+Alerts
+Implicit Wait
